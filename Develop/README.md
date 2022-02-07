@@ -12,6 +12,11 @@
 
 #part-3: https://watch.screencastify.com/v/HkVOW8pzDKBtJLI85vXA
 
+
+## file strcture screenshot
+
+<img width="253" alt="Screen Shot 2022-02-06 at 6 15 20 PM" src="https://user-images.githubusercontent.com/92074903/152710471-45377a45-9110-42a6-8014-4c76827e1cbf.png">
+
 ## Insomnia test screenshot
 
 <img width="1053" alt="Screen Shot 2022-02-06 at 6 10 51 PM" src="https://user-images.githubusercontent.com/92074903/152710252-7e4300a5-b7ba-41fb-9184-082ab72efcc4.png">
